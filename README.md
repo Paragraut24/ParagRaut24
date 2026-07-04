@@ -1,84 +1,185 @@
-## Hi there 👋
+<picture>
+  <img alt="Parag Raut banner" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=PARAG%20RAUT&fontColor=FFDE00&fontSize=60&fontAlignY=45&desc=Full-Stack%20Dev%20%7C%20AI%2FML%20%7C%20IoT%20%7C%20Cybersecurity&descAlignY=70&descColor=FFFFFF&descSize=18" width="100%" />
+</picture>
 
+<div align="center">
 
-👋 Hi there, I'm Parag Raut
-🎓 First-year B.Tech Student in Computer Science – Cybersecurity
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFDE00)](https://www.linkedin.com/in/parag-raut-b7a8b9290/)
+[![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=FFDE00)](https://www.upwork.com/freelancers/~YOUR-UPWORK)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFDE00)](https://github.com/Paragraut24)
 
-💻 Passionate about Frontend Web Development & Cybersecurity
+</div>
 
-🌐 Currently learning Backend Development using Django
+---
 
-🧠 Skills & Tools :
-Frontend: HTML5, CSS3, Bootstrap, Basic JavaScript
+## ▍ABOUT ME
 
-Programming: Python (Basics, Beginner Projects)
+<br>
 
-Version Control: Git & GitHub
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-Soft Skills: Leadership, Communication, Teamwork
+- **2nd-year B.Tech, CSE — IoT, Cybersecurity & Blockchain**
+- Vishwakarma Institute of Technology, Pune — Class of 2027
+- 🤖 **AI Intern** @ BlockseBlock OpenXAI Program
+- 🏆 **1st Runner-Up** — Techsprint Open Innovation Hackathon
+- 🚀 Ship full-stack AI products: React/Flask/Vite frontends wired to Gemini, OpenAI & Claude APIs
+- 🔌 Build IoT systems on ESP32 + Firebase
+- 💼 Currently freelancing as a **Full-Stack Developer & AI Integration Specialist**
+- 💬 Ask me about **hackathon builds**, **LLM app integration**, or **IoT prototyping**
 
+</td>
+<td width="40%" valign="top" align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paragraut24&show_icons=true&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF)
 
-🛠️ Projects
-🔗 College Club Website – Responsive site using HTML, CSS, Bootstrap
+</td>
+</tr>
+</table>
 
-https://paragraut24.github.io/college-club-website/#
+---
 
-🔗 Sports Department Webpage – Government-themed project showcasing events
+## ▍CURRENTLY BUILDING
 
-🔗 Recipe World Concept – Recipe-sharing frontend with like, comment, and follow features
+<br>
 
+<table width="100%">
+<tr>
+<td>
 
+**PRIME OS** — an AI-powered personal productivity PWA with a brutalist UI. Time blocking, habit tracking, Pomodoro, an AI Mentor, and a Prime Score system, built on React + Vite + Firebase + Gemini 2.0 Flash.
 
+&nbsp;&nbsp;[Source](https://github.com/Paragraut24/prime-os) &nbsp;&nbsp; [Live App](https://prime-os.vercel.app)
 
-📜 Certifications
+</td>
+</tr>
+</table>
 
-Frontend Development:
+---
 
-HTML5 – W3Schools
+## ▍TECH STACK
 
-CSS3 – Infosys Springboard
+<br>
 
-Rapid Bootstrap – Infosys Springboard
+<div align="center">
 
+**Languages**
 
-Python & Cybersecurity:
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFDE00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFDE00)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFDE00)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFDE00)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFDE00)
 
-Python Basics – Udemy
+**Frontend**
 
-Python 101 – Coursera (Develop Your First Python Program)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00A3FF)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00A3FF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00A3FF)
 
-Free Python Course – GeeksForGeeks
+**Backend & AI**
 
-Foundations of Cybersecurity – Google
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFDE00)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFDE00)
+![Gemini](https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge&logo=google&logoColor=FFDE00)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFDE00)
 
+**IoT Tools**
 
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=FFDE00)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFDE00)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00A3FF)
 
-🚀 Goals
+</div>
 
-Learn JavaScript deeply
+---
 
-Build full-stack apps using Django
+## ▍FEATURED PROJECTS
 
-Explore more about Cybersecurity tools & practices
+<br>
 
+<div align="center">
 
+<table>
+<tr>
+<td>
 
-📫 Connect with Me
+[![prime-os](https://github-readme-stats.vercel.app/api/pin/?username=Paragraut24&repo=prime-os&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF)](https://github.com/Paragraut24/prime-os)
 
-📧 paragraut2006@gmail.com
+</td>
+<td>
 
-<!--
-**Paragraut24/ParagRaut24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ml-project-ReviewGuard](https://github-readme-stats.vercel.app/api/pin/?username=Paragraut24&repo=ml-project-ReviewGuard&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF)](https://github.com/Paragraut24/ml-project-ReviewGuard)
 
-Here are some ideas to get you started:
+</td>
+</tr>
+<tr>
+<td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![krishi-drishti](https://github-readme-stats.vercel.app/api/pin/?username=Paragraut24&repo=krishi-drishti&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF)](https://github.com/Paragraut24/krishi-drishti)
+
+</td>
+<td>
+
+[![deepfake-detector-techxplorers](https://github-readme-stats.vercel.app/api/pin/?username=Paragraut24&repo=deepfake-detector-techxplorers&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF)](https://github.com/Paragraut24/deepfake-detector-techxplorers)
+
+</td>
+</tr>
+</table>
+
+| Project | Description | Tech |
+|---|---|---|
+| **PRIME OS** | AI productivity PWA — time blocking, habit tracking, AI Mentor | React, Firebase, Gemini |
+| **ReviewGuard** | Fake review detection — BERT + GNN + behavioral scoring | Python, BERT, GNN |
+| **Krishi-Drishti** | Crop leaf disease detection + government scheme advisor | React, Gemini API |
+| **Deepfake Detector** | Chrome extension + FastAPI backend for image/video authenticity | Python, FastAPI, Gemini Vision |
+| **IFA Care** | Multi-role healthcare app — Patient, Health Worker, Admin | React, Firebase |
+
+</div>
+
+---
+
+## ▍GITHUB STATS
+
+<br>
+
+<div align="center">
+
+![Streak Stats](https://streak-stats.demolab.com?user=Paragraut24&hide_border=true&border_radius=0&background=000000&stroke=FFDE00&ring=00A3FF&fire=FFDE00&currStreakLabel=FFDE00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paragraut24&layout=compact&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF)
+
+</div>
+
+---
+
+## ▍LATEST ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## ▍FUN FACTS
+
+<div align="center">
+
+- More into physics & chemistry than pure math
+- Prototyped a Unity tower defense game before ever using Unity
+- Windows + VS Code + Python venvs is home base
+- Currently prepping a **Samsung Solve for Tomorrow** submission — an assistive wearable for deaf-mute users
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=6&section=footer" width="100%" />
+
+## ▍CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFDE00)](https://www.linkedin.com/in/parag-raut-b7a8b9290/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFDE00)](mailto:paragraut24@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFDE00)](https://github.com/Paragraut24)
+
+</div>
