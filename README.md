@@ -15,10 +15,6 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
 - **3rd-year B.Tech, CSE — IoT, Cybersecurity & Blockchain**
 - Vishwakarma Institute of Technology, Pune — Class of 2028
 - 🤖 **AI Intern** @ BlockseBlock OpenXAI Program
@@ -26,15 +22,6 @@
 - 🚀 Ship full-stack AI products: React/Flask/Vite frontends wired to Gemini, OpenAI & Claude APIs
 - 🔌 Build IoT systems on ESP32 + Firebase
 - 💬 Ask me about **hackathon builds**, **LLM app integration**, or **IoT prototyping**
-
-</td>
-<td width="40%" valign="top" align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paragraut24&show_icons=true&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -140,11 +127,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paragraut24&show_icons=true&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF&include_all_commits=true&count_private=true)
-
 ![Streak Stats](https://streak-stats.demolab.com?user=Paragraut24&hide_border=true&border_radius=0&background=000000&stroke=FFDE00&ring=00A3FF&fire=FFDE00&currStreakLabel=FFDE00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paragraut24&layout=compact&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF)
 
 </div>
 
