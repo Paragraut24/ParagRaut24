@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFDE00)](https://www.linkedin.com/in/parag-raut-b7a8b9290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFDE00)](https://www.linkedin.com/in/parag-raut-4a23b8345/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFDE00)](https://github.com/Paragraut24)
 
 </div>
@@ -144,6 +144,8 @@
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paragraut24&show_icons=true&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF&include_all_commits=true&count_private=true)
+
 ![Streak Stats](https://streak-stats.demolab.com?user=Paragraut24&hide_border=true&border_radius=0&background=000000&stroke=FFDE00&ring=00A3FF&fire=FFDE00&currStreakLabel=FFDE00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paragraut24&layout=compact&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF)
@@ -176,7 +178,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFDE00)](https://www.linkedin.com/in/parag-raut-b7a8b9290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFDE00)](https://www.linkedin.com/in/parag-raut-4a23b8345/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFDE00)](mailto:paragraut2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFDE00)](https://github.com/Paragraut24)
 
