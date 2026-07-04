@@ -101,30 +101,24 @@
 
 <table>
 <tr>
-<td>
+<td align="center" width="50%">
 
-[![prime-os](https://github-readme-stats.vercel.app/api/pin/?username=Paragraut24&repo=prime-os&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF)](https://github.com/Paragraut24/prime-os)
+**PRIME OS**
 
-</td>
-<td>
-
-[![ml-project-ReviewGuard](https://github-readme-stats.vercel.app/api/pin/?username=Paragraut24&repo=ml-project-ReviewGuard&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF)](https://github.com/Paragraut24/ml-project-ReviewGuard)
+[![PRIME OS](https://raw.githubusercontent.com/Paragraut24/ParagRaut24/main/Screenshot%202026-07-04%20192947.png)](https://prime-os-a3ce7.web.app/)
 
 </td>
-</tr>
-<tr>
-<td>
+<td align="center" width="50%">
 
-[![krishi-drishti](https://github-readme-stats.vercel.app/api/pin/?username=Paragraut24&repo=krishi-drishti&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF)](https://github.com/Paragraut24/krishi-drishti)
+**ReviewGuard**
 
-</td>
-<td>
-
-[![deepfake-detector-techxplorers](https://github-readme-stats.vercel.app/api/pin/?username=Paragraut24&repo=deepfake-detector-techxplorers&hide_border=true&border_radius=0&bg_color=000000&title_color=FFDE00&text_color=FFFFFF&icon_color=00A3FF)](https://github.com/Paragraut24/deepfake-detector-techxplorers)
+[![ReviewGuard](https://raw.githubusercontent.com/Paragraut24/ParagRaut24/main/Screenshot%202026-07-04%20193055.png)](https://github.com/Paragraut24/ml-project-ReviewGuard)
 
 </td>
 </tr>
 </table>
+
+<br>
 
 | Project | Description | Tech |
 |---|---|---|
