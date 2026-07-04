@@ -5,7 +5,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFDE00)](https://www.linkedin.com/in/parag-raut-b7a8b9290/)
-[![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=FFDE00)](https://www.upwork.com/freelancers/~YOUR-UPWORK)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFDE00)](https://github.com/Paragraut24)
 
 </div>
@@ -20,13 +19,12 @@
 <tr>
 <td width="60%" valign="top">
 
-- **2nd-year B.Tech, CSE — IoT, Cybersecurity & Blockchain**
-- Vishwakarma Institute of Technology, Pune — Class of 2027
+- **3rd-year B.Tech, CSE — IoT, Cybersecurity & Blockchain**
+- Vishwakarma Institute of Technology, Pune — Class of 2028
 - 🤖 **AI Intern** @ BlockseBlock OpenXAI Program
 - 🏆 **1st Runner-Up** — Techsprint Open Innovation Hackathon
 - 🚀 Ship full-stack AI products: React/Flask/Vite frontends wired to Gemini, OpenAI & Claude APIs
 - 🔌 Build IoT systems on ESP32 + Firebase
-- 💼 Currently freelancing as a **Full-Stack Developer & AI Integration Specialist**
 - 💬 Ask me about **hackathon builds**, **LLM app integration**, or **IoT prototyping**
 
 </td>
@@ -50,7 +48,7 @@
 
 **PRIME OS** — an AI-powered personal productivity PWA with a brutalist UI. Time blocking, habit tracking, Pomodoro, an AI Mentor, and a Prime Score system, built on React + Vite + Firebase + Gemini 2.0 Flash.
 
-&nbsp;&nbsp;[Source](https://github.com/Paragraut24/prime-os) &nbsp;&nbsp; [Live App](https://prime-os.vercel.app)
+&nbsp;&nbsp;[Source](https://github.com/Paragraut24/prime-os) &nbsp;&nbsp; [Live App](https://prime-os-a3ce7.web.app/)
 
 </td>
 </tr>
@@ -165,8 +163,8 @@
 
 <div align="center">
 
-- More into physics & chemistry than pure math
-- Prototyped a Unity tower defense game before ever using Unity
+- I build things first and read the docs second
+- Prototyped a Unity tower defense game before ever touching Unity
 - Windows + VS Code + Python venvs is home base
 - Currently prepping a **Samsung Solve for Tomorrow** submission — an assistive wearable for deaf-mute users
 
@@ -179,7 +177,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFDE00)](https://www.linkedin.com/in/parag-raut-b7a8b9290/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFDE00)](mailto:paragraut24@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFDE00)](mailto:paragraut2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFDE00)](https://github.com/Paragraut24)
 
 </div>
