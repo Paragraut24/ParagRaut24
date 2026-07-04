@@ -112,7 +112,9 @@
 
 **ReviewGuard**
 
-[![ReviewGuard](https://raw.githubusercontent.com/Paragraut24/ParagRaut24/main/Screenshot%202026-07-04%20193055.png)](https://github.com/Paragraut24/ml-project-ReviewGuard)
+[![ReviewGuard Hero](https://raw.githubusercontent.com/Paragraut24/ParagRaut24/main/reviewguard%20img2.png)](https://github.com/Paragraut24/ml-project-ReviewGuard)
+
+[![ReviewGuard Analysis](https://raw.githubusercontent.com/Paragraut24/ParagRaut24/main/reviewguard%20img1.png)](https://github.com/Paragraut24/ml-project-ReviewGuard)
 
 </td>
 </tr>
